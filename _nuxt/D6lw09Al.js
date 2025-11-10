@@ -1,1 +1,0 @@
-import{_ as s,f as a,k as r,X as t}from"./D-Dwnp2u.js";const n={};function o(e,c){return r(),a("table",null,[t(e.$slots,"default")])}const _=Object.assign(s(n,[["render",o]]),{__name:"ProseTable"});export{_ as default};

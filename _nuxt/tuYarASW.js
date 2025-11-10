@@ -1,0 +1,1 @@
+import{_ as o,f as s,k as r,a3 as n}from"./DfVPdZH7.js";const t={};function a(e,c){return r(),s("code",null,[n(e.$slots,"default")])}const l=Object.assign(o(t,[["render",a]]),{__name:"ProseCode"});export{l as default};

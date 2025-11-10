@@ -1,0 +1,1 @@
+import{_ as a,f as s,k as r,a3 as t}from"./DfVPdZH7.js";const n={};function o(e,c){return r(),s("thead",null,[t(e.$slots,"default")])}const l=Object.assign(a(n,[["render",o]]),{__name:"ProseThead"});export{l as default};
