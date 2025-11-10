@@ -63,7 +63,8 @@ jobs:
         env:
           NITRO_PRESET: github_pages
           NUXT_CONTENT_PREVIEW_API: https://api.nuxt.studio
-          
+          STUDIO_GITHUB_CLIENT_ID: ${{ secrets.STUDIO_GITHUB_CLIENT_ID }}
+STUDIO_GITHUB_CLIENT_SECRET: ${{ secrets.STUDIO_GITHUB_CLIENT_SECRET }}
 
       # Deployment job
       - name: Deploy 🚀
